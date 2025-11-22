@@ -1,0 +1,9 @@
+{
+	"name": "pradeep-AzureProject1",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcf98327-eaa2-42be-96bf-e1edbc02b5d0",
+		"tenantId": "7c177ecf-d951-4136-89e7-3cd97a3407b4"
+	}
+}
